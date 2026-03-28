@@ -20,7 +20,7 @@ class reawy {
         this.job = "developer",
         this.weight = "82",
         this.birthyear = "2006",
-        this.discord.name = "reawyyexa"
+        this.discord.name = "reawy1946"
     };
 }
 
