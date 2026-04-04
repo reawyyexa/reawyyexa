@@ -15,12 +15,12 @@ class reawy {
         this.name = "Atakan",
         this.surname = "Öztürk",
         this.sex = "male",
-        this.length = "183",
+        this.height = "183",
         this.type = "human",
         this.job = "developer",
         this.weight = "82",
         this.birthyear = "2006",
-        this.discord.name = "reawy1946"
+        this.discord.name = "vndefeated"
     };
 }
 
